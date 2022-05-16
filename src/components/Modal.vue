@@ -78,4 +78,10 @@ export default {
 .modal.sale h1 {
   color: white;
 }
+.modal.sale .actions {
+  color: white;
+}
+.modal.sale .actions a {
+  color: white;
+}
 </style>
